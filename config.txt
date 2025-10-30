@@ -1,0 +1,5 @@
+
+PROJECT_NAME=DockerDesktop
+DockerDesktop_VERSION_MAJOR=4
+DockerDesktop_VERSION_MINOR=49
+DockerDesktop_VERSION_PATCH=0
