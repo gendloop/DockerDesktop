@@ -1,9 +1,9 @@
-# RepoName
+# DockerDesktop
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/DockerDesktop
 ```
 
 ## Notes
